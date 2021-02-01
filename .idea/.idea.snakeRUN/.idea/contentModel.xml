@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kaanu\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kaanu\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_snakeRUN.-1466810391.00" t="ExcludeRecursive" />
+    <e p="C:\Users\kaanu\OneDrive\Projects\snakeRUN" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Camera.cs" t="Include" />
+          <e p="Eggs" t="Include">
+            <e p="Green.cs" t="Include" />
+            <e p="Red.cs" t="Include" />
+          </e>
+          <e p="Food.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="MainMenu.cs" t="Include" />
+          <e p="NodeMovement.cs" t="Include" />
+          <e p="ObjectSpawner.cs" t="Include" />
+          <e p="Obstacle.cs" t="Include" />
+          <e p="PlatformManager.cs" t="Include" />
+          <e p="SnakeHeadController.cs" t="Include" />
+        </e>
+        <e p="SimpleEnviroment" t="Include">
+          <e p="Particles" t="Include">
+            <e p="shader" t="Include">
+              <e p="Mobile-Particle-Add_ZTOP.shader" t="Include" />
+              <e p="Particle_Add_overlay.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="BasicAnimator.cs" t="Include" />
+            <e p="SceneManager.cs" t="Include" />
+            <e p="Storage.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="snakeRUN.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
